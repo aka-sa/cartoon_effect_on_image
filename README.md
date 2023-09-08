@@ -7,4 +7,3 @@ Before
 After 
 ![download](https://github.com/aka-sa/cartoon_effect_on_image/assets/79243918/d00d7ad5-df91-4698-96a9-e4b128cb5dff)
 
-![image](https://github.com/aka-sa/cartoon_effect_on_image/assets/79243918/06cb65ca-ff90-4b14-971b-10fa65c415ff)
